@@ -31,4 +31,4 @@
 |South Coast PowerShell User Group|[Jonathan Medd](https://www.twitter.com/jonathanmedd) | Southampton, UK|[Meetup](https://www.meetup.com/UK-South-Coast-PowerShell-User-Group/) |[@UKSthCoastPSUG](http://www.twitter.com/UKSthCoastPSUG)|
 |Manchester PowerShell User Group|[Ryan Yates](https://twitter.com/ryanyates1990)|Manchester, UK| [Meetup](http://www.meetup.com/Get-PSUGUK/)|[@getpsugukman](https://twitter.com/getpsugukman)||
 |Singapore PowerShell User Group|[Milton Goh](https://twitter.com/miltongoh)|Singapore, Singapore| [Meetup](https://www.meetup.com/mssgug/)|||
-|Yangon PowerShell User Group|[Sebastian Szumigalski](https://twitter.com/SzumigalskiS)|Yangon, Myanmar| [Meetup](hhttps://www.meetup.com/Yangon-PowerShell-Group/)|[@psugygn](https://twitter.com/PSUGYGN)||
+|Yangon PowerShell User Group|[Sebastian Szumigalski](https://twitter.com/SzumigalskiS)|Yangon, Myanmar| [Meetup](https://www.meetup.com/Yangon-PowerShell-Group/)|[@psugygn](https://twitter.com/PSUGYGN)||
