@@ -30,3 +30,4 @@
 |PowerShell London UK|[Ebru Cucen](https://www.twitter.com/ebrucucen) [Gael Colas](https://www.twitter.com/gaelcolas) [Coray Burke](https://www.twitter.com/cburke007) [Iain Brighton](https://www.twitter.com/iainbrighton)| London,UK|[Website](http://www.powershell.org.uk) [Meetup](http://www.meetup.com/powershell-london-uk)|[@lonpsug](https://www.twitter.com/)||
 |South Coast PowerShell User Group|[Jonathan Medd](https://www.twitter.com/jonathanmedd) | Southampton, UK|[Meetup](https://www.meetup.com/UK-South-Coast-PowerShell-User-Group/) |[@UKSthCoastPSUG](http://www.twitter.com/UKSthCoastPSUG)|
 |Manchester PowerShell User Group|[Ryan Yates](https://twitter.com/ryanyates1990)|Manchester, UK| [Meetup](http://www.meetup.com/Get-PSUGUK/)|[@getpsugukman](https://twitter.com/getpsugukman)||
+|Singapore PowerShell User Group|[Milton Goh](https://twitter.com/miltongoh)|Singapore, Singapore| [Meetup](https://www.meetup.com/mssgug/)|||
